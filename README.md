@@ -13,3 +13,5 @@ Pada Project Kali ini kita akan membuat satu wordcloud sederhana dengan text ber
 4. do wordcloud
 
 silahkan menuju ke sourcecode ntuk melihat langkah teknisnya.
+
+# PROJEK MASIH BISA DIKEMBANGKAN MENJADI ANALISIS PEMBUKAAN CABANG BARU (EKSPANSI KE WILAYAH LAIN) BERDASARKAN NAMA WILAYAH YANG DISEBUT 
